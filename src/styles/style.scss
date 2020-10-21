@@ -1,0 +1,17 @@
+* {
+  padding: 10px ;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+.columns {
+  width: 100%;
+  column-count: 3;
+
+  .block {
+    width: 100%;
+    min-height: 300px;
+    background: yellow;
+  }
+}
