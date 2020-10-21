@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3b6edcb-42c4-4ab6-b397-bc9173cbd109" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ArtMary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/node-sass" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/node-sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/node-sass.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/node-sass.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eazy-logger/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eazy-logger/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eazy-logger/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tfunk/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tfunk/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tfunk/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tfunk/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jB4siISigBNnQOahjoYHtOop3f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3b6edcb-42c4-4ab6-b397-bc9173cbd109" name="Default Changelist" comment="" />
+      <created>1603264362483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603264362483</updated>
+      <workItem from="1603264363922" duration="717000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
